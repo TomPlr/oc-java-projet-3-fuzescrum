@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T16:30:26.922Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="nb4jBh-vh4CliWVQ-34O" version="22.0.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-10-18T19:12:10.403Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="7po-FXqYKksmGEIATXW4" version="22.0.4" type="github" pages="5">
   <diagram name="Context Diagram" id="8BxVGIxLLyAESS8wBwZz">
     <mxGraphModel dx="2411" dy="831" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
       <root>
@@ -965,7 +965,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TMP6rPw78qjPCxo4KZ1q" name="Class diagram">
-    <mxGraphModel dx="2884" dy="1662" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="2056" dy="1108" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1140,7 +1140,7 @@
           <mxGeometry x="479" y="48" width="160" height="123" as="geometry" />
         </mxCell>
         <mxCell id="vVGYsJRy71oe4bALRR_u-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Moderator&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ role : ModeratorType&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ deleteMessage()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ deleteContent()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ blockAccount()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ generateActivityReport()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="719" y="48" width="160" height="133" as="geometry" />
+          <mxGeometry x="675" y="48" width="160" height="133" as="geometry" />
         </mxCell>
         <mxCell id="vVGYsJRy71oe4bALRR_u-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=0;strokeWidth=1;endSize=15;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vVGYsJRy71oe4bALRR_u-3" target="CjJf3CU17gfn-VTjzRXM-2">
           <mxGeometry relative="1" as="geometry">
